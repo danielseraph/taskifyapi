@@ -1,0 +1,14 @@
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\bin\Debug\net9.0\Taskify.Domain.deps.json
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\bin\Debug\net9.0\Taskify.Domain.runtimeconfig.json
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\bin\Debug\net9.0\Taskify.Domain.dll
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\bin\Debug\net9.0\Taskify.Domain.pdb
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\obj\Debug\net9.0\Taskify.Domain.csproj.AssemblyReference.cache
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\obj\Debug\net9.0\Taskify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\obj\Debug\net9.0\Taskify.Domain.AssemblyInfoInputs.cache
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\obj\Debug\net9.0\Taskify.Domain.AssemblyInfo.cs
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\obj\Debug\net9.0\Taskify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\obj\Debug\net9.0\Taskify.Domain.dll
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\obj\Debug\net9.0\refint\Taskify.Domain.dll
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\obj\Debug\net9.0\Taskify.Domain.pdb
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\obj\Debug\net9.0\Taskify.Domain.genruntimeconfig.cache
+C:\Users\Agidi Daniel George\Desktop\Taskify\Taskify\Taskify.Domain\obj\Debug\net9.0\ref\Taskify.Domain.dll
