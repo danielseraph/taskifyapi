@@ -61,7 +61,7 @@ namespace Taskify.DataStore.Repositorise.Implementation
             return  trackChanges ? _dbContext.Set<T>() : _dbContext.Set<T>().AsNoTracking();
         }
 
-        public async Task<T> GetByIdAsync(Guid id)
+        public async Task<T?> GetByIdAsync(Guid id)
         {
             var set = _dbContext.Set<T>();
             return await set.FirstOrDefaultAsync(x => x.Id == id);

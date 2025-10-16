@@ -37,6 +37,19 @@ namespace Taskify.Api.Controllers
             var response = await _taskService.UpdateTaskStatusAsync(id, model);
             return StatusCode(response.StatusCode, response);
         }
-
+        [Authorize]
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateTaskDetails(Guid id, [FromBody] TaskCreateDto model)
+        {
+            var response = await _taskService.UpdateTaskAsync(id, model);
+            return StatusCode(response.StatusCode, response);
+        }
+        [Authorize]
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteTask(Guid id)
+        {
+            var response = await _taskService.DeleteTaskAsync(id);
+            return StatusCode(response.StatusCode, response);
+        }
     }
 }

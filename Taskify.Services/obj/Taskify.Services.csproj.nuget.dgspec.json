@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj": {}
+    "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Taskify.DataStore.csproj": {
+    "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Taskify.DataStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Taskify.DataStore.csproj",
+        "projectUniqueName": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Taskify.DataStore.csproj",
         "projectName": "Taskify.DataStore",
-        "projectPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Taskify.DataStore.csproj",
+        "projectPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Taskify.DataStore.csproj",
         "packagesPath": "C:\\Users\\Agidi Daniel George\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\obj\\",
+        "outputPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj": {
-                "projectPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj"
+              "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj": {
+                "projectPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj"
               }
             }
           }
@@ -103,18 +103,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj": {
+    "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
         "projectName": "Taskify.Domain",
-        "projectPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
+        "projectPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
         "packagesPath": "C:\\Users\\Agidi Daniel George\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -202,18 +202,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj": {
+    "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj",
         "projectName": "Taskify.Services",
-        "projectPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj",
+        "projectPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj",
         "packagesPath": "C:\\Users\\Agidi Daniel George\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\obj\\",
+        "outputPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -234,11 +234,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Taskify.DataStore.csproj": {
-                "projectPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Taskify.DataStore.csproj"
+              "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Taskify.DataStore.csproj": {
+                "projectPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Taskify.DataStore.csproj"
               },
-              "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj": {
-                "projectPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj"
+              "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj": {
+                "projectPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj"
               }
             }
           }
@@ -300,7 +300,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

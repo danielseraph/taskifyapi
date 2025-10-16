@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hhuUQVTwjEU=",
+  "dgSpecHash": "YFwsSxbI8ro=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Taskify.Api.csproj",
+  "projectFilePath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Taskify.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agidi Daniel George\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Agidi Daniel George\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

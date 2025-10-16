@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taskify.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3a750c6cfbb7ce7ced89e68c4343f410f3e68fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taskify.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taskify.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

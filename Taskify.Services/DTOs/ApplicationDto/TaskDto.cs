@@ -15,7 +15,7 @@ namespace Taskify.Services.DTOs.ApplicationDto
         public string ProjectName { get; set; } = default!;
         public Guid ProjectId { get; set; }
         public string? CreatedBy { get; set; } = default;
-        public List<string> AssignedUser { get; set; } = new List<string>();
+        public List<UserSummaryDto> AssignedUser { get; set; } = new List<UserSummaryDto>();
         public DateTime CreateAt { get; set; }
     }
 }

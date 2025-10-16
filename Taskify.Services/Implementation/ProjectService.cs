@@ -150,7 +150,7 @@ namespace Taskify.Services.Implementation
         public async Task<IEnumerable<ProjectDto>> GetAllProject()
         {
             var userId = _currentUserService.GetUserId();
-            var userGuid = Guid.Parse(userId);
+            var userGuid = Guid.Parse(userId!);
 
             var query = _appRepository.GetAllAsync(trackChanges: false)
                                       .Where(p => p.CreatedByUserId == userGuid);
@@ -174,7 +174,7 @@ namespace Taskify.Services.Implementation
             var project = await _appRepository.FindByCondition(p => p.Id == model.Id).FirstOrDefaultAsync();
             if (project == null)
                 return ApiResponseBuilder.Fail<ProjectDto>("Project not found");
-            project.ProjectName = model.ProjectName;
+            project.ProjectName = model.ProjectName!;
             project.Description = model.Description;
             project.CreateAT = model.CreateAT;
             project.UpdateAT = model.UpdateAT;   
@@ -200,8 +200,8 @@ namespace Taskify.Services.Implementation
 
         public async Task<ApiResponse<ProjectDto>> AddMemberIfNotExistsAsync(Guid projectId, string userId)
         {
-            // Load project with its current members
-            var project = await _appRepository.GetAllAsync()
+            // Load project as tracked so EF will detect collection changes
+            var project = await _appRepository.GetAllAsync(trackChanges: true)
                 .Include(p => p.UserProjects)
                 .FirstOrDefaultAsync(p => p.Id == projectId);
 
@@ -213,9 +213,10 @@ namespace Taskify.Services.Implementation
             if (user == null)
                 return ApiResponseBuilder.Fail<ProjectDto>("User not found", statusCode: StatusCodes.Status404NotFound);
 
+            project.UserProjects ??= new List<UserProject>();
+
             // Check if the user is already a member of this project
-            bool alreadyMember = project.UserProjects.Any(pm => pm.ProjectId == projectId && pm.UserId == userId);
-            if (alreadyMember)
+            if (project.UserProjects.Any(pm => pm.UserId == userId))
             {
                 return ApiResponseBuilder.Success<ProjectDto>(
                     _mapper.Map<ProjectDto>(project),
@@ -228,12 +229,17 @@ namespace Taskify.Services.Implementation
             {
                 ProjectId = projectId,
                 UserId = userId,
-                JoinedAt = DateTime.UtcNow
+                JoinedAt = DateTime.UtcNow,
+                User = user
             };
 
             project.UserProjects.Add(newMember);
-            //await _appRepository.UpdateAsync(project);
-            await _appRepository.SaveChangesAsync();
+
+            // Mark for update (safe even when tracked) and persist
+            await _appRepository.UpdateAsync(project);
+            var saved = await _appRepository.SaveChangesAsync();
+            if (!saved)
+                return ApiResponseBuilder.Fail<ProjectDto>("Failed to add user to project", statusCode: StatusCodes.Status500InternalServerError);
 
             var result = _mapper.Map<ProjectDto>(project);
             return ApiResponseBuilder.Success(result, "User added to project successfully");

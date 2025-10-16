@@ -3398,11 +3398,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
       "projectName": "Taskify.Domain",
-      "projectPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
+      "projectPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
       "packagesPath": "C:\\Users\\Agidi Daniel George\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3490,7 +3490,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

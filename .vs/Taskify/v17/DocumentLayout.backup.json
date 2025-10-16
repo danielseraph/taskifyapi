@@ -1,422 +1,353 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\",
+  "WorkspaceRootPath": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\implementation\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\implementation\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\interface\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\mappservice\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\mappservice\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\assigntaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\assigntaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\constant\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\constant\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\enum\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\enum\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\enum\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\enum\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\configurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\configurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\primarydata\\roles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\primarydata\\roles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\implementation\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\repositorise\\implementation\\apprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\repositorise\\implementation\\apprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\repositorise\\implementation\\apprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\implementation\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251006211142_updateOnTheUserTaskEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taskify.DataStore\\Migrations\\20251006211142_updateOnTheUserTaskEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\interface\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\entities\\userproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\userproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\entities\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\implementation\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\entities\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\dateserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\dateserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\migrations\\20250910185058_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\migrations\\20250910185058_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\controllers\\roles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\roles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\projectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\projectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\interface\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\repositorise\\interface\\iapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\repositorise\\interface\\iapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\repositorise\\interface\\iapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\implementation\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\interface\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\interface\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\interface\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\taskify.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\taskify.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\taskify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\taskify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\taskify.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\taskify.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\taskify.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\taskify.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\taskify.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\utilities\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\usersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\usersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\entities\\userproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\userproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\mappservice\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\mappservice\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\assigntaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\assigntaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\constant\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\constant\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\enum\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\enum\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\enum\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\enum\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\configurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\configurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\primarydata\\roles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\primarydata\\roles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\implementation\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\entities\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\dateserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\dateserviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\migrations\\20250910185058_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\migrations\\20250910185058_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify\\controllers\\roles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\controllers\\roles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\projectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\projectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\applicationdto\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\applicationdto\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\interface\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\implementation\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\interface\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\interface\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify\\taskify.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\taskify.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\taskify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\taskify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify\\taskify.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\taskify.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\utilities\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\utilities\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.services\\dtos\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.services\\dtos\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0731B7E3-38EB-4D29-AA5A-849D7BC767D8}|Taskify.Services\\Taskify.Services.csproj|solutionrelative:taskify.services\\dtos\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3F046A93-B991-4420-9FF1-72527008D5B4}|Taskify\\Taskify.Api.csproj|solutionrelative:taskify\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{963F3003-0614-4C75-AE52-CBDBCC2231CE}|Taskify.Domain\\Taskify.Domain.csproj|solutionrelative:taskify.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\migrations\\20250924100349_updatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\migrations\\20250924100349_updatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\migrations\\20250924100349_updatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\migrations\\20251002201322_fixedusertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\migrations\\20251002201322_fixedusertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\migrations\\20251002201322_fixedusertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\desktop\\taskify\\taskify\\taskify.datastore\\migrations\\20251002193737_modify_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\migrations\\20251002193737_modify_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\migrations\\20251002193737_modify_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|c:\\users\\agidi daniel george\\documents\\class\\taskify\\taskify\\taskify.datastore\\migrations\\20251006211142_updateontheusertaskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39BFC2-50E9-404C-9C50-0C9B9D9151FB}|Taskify.DataStore\\Taskify.DataStore.csproj|solutionrelative:taskify.datastore\\migrations\\20251006211142_updateontheusertaskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 204,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "DockedHeight": 380,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConfigurationService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\ConfigurationService.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\ConfigurationService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\ConfigurationService.cs",
-              "RelativeToolTip": "Taskify.Services\\ConfigurationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T20:32:51.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TaskService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\TaskService.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\Implementation\\TaskService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\TaskService.cs",
-              "RelativeToolTip": "Taskify.Services\\Implementation\\TaskService.cs",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAowLgAAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\TaskService.cs*",
+              "RelativeToolTip": "Taskify.Services\\Implementation\\TaskService.cs*",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAawNEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:03:44.701Z",
+              "WhenOpened": "2025-10-16T14:59:32.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ITaskService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\ITaskService.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\Interface\\ITaskService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\ITaskService.cs",
-              "RelativeToolTip": "Taskify.Services\\Interface\\ITaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:25:51.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskDto.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApplicationDto\\TaskDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskDto.cs",
-              "RelativeToolTip": "Taskify.Services\\DTOs\\ApplicationDto\\TaskDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T13:03:44.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "Taskify\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\TaskController.cs*",
-              "RelativeToolTip": "Taskify\\Controllers\\TaskController.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAuwCEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:25:49.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskUpdateDto.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApplicationDto\\TaskUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskUpdateDto.cs",
-              "RelativeToolTip": "Taskify.Services\\DTOs\\ApplicationDto\\TaskUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T19:09:07.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\MappService\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\MappService\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\MappService\\MappingProfile.cs",
-              "RelativeToolTip": "Taskify.Services\\MappService\\MappingProfile.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAIAwwA4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T11:20:50.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AssignTaskDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\AssignTaskDto.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApplicationDto\\AssignTaskDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\AssignTaskDto.cs",
-              "RelativeToolTip": "Taskify.Services\\DTOs\\ApplicationDto\\AssignTaskDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T19:37:11.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Program.cs",
               "RelativeDocumentMoniker": "Taskify\\Program.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Program.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Program.cs",
               "RelativeToolTip": "Taskify\\Program.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T13:26:47.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Constant\\UserRole.cs",
-              "RelativeDocumentMoniker": "Taskify.Domain\\Constant\\UserRole.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Constant\\UserRole.cs",
-              "RelativeToolTip": "Taskify.Domain\\Constant\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "IAppRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Repositorise\\Interface\\IAppRepository.cs",
+              "RelativeDocumentMoniker": "Taskify.DataStore\\Repositorise\\Interface\\IAppRepository.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Repositorise\\Interface\\IAppRepository.cs",
+              "RelativeToolTip": "Taskify.DataStore\\Repositorise\\Interface\\IAppRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T19:27:13.376Z",
+              "WhenOpened": "2025-09-16T12:34:16.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "AppRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Repositorise\\Implementation\\AppRepository.cs",
+              "RelativeDocumentMoniker": "Taskify.DataStore\\Repositorise\\Implementation\\AppRepository.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Repositorise\\Implementation\\AppRepository.cs",
+              "RelativeToolTip": "Taskify.DataStore\\Repositorise\\Implementation\\AppRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:45:51.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\Implementation\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\ProjectService.cs",
+              "RelativeToolTip": "Taskify.Services\\Implementation\\ProjectService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAEwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:08:16.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\TaskItem.cs",
               "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\TaskItem.cs",
               "RelativeToolTip": "Taskify.Domain\\Entities\\TaskItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -425,206 +356,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TaskStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Enum\\TaskStatus.cs",
-              "RelativeDocumentMoniker": "Taskify.Domain\\Enum\\TaskStatus.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Enum\\TaskStatus.cs",
-              "RelativeToolTip": "Taskify.Domain\\Enum\\TaskStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Taskify\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Taskify\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T12:40:24.97Z",
+              "WhenOpened": "2025-10-02T18:25:49.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\Project.cs",
-              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\Project.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\Project.cs",
-              "RelativeToolTip": "Taskify.Domain\\Entities\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\Interface\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\ITaskService.cs",
+              "RelativeToolTip": "Taskify.Services\\Interface\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:03:25.476Z",
+              "WhenOpened": "2025-10-02T12:25:51.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PriorityLevel.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Enum\\PriorityLevel.cs",
-              "RelativeDocumentMoniker": "Taskify.Domain\\Enum\\PriorityLevel.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Enum\\PriorityLevel.cs",
-              "RelativeToolTip": "Taskify.Domain\\Enum\\PriorityLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T12:45:57.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DataInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\DataInitializer.cs",
-              "RelativeDocumentMoniker": "Taskify.DataStore\\DataInitializer.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\DataInitializer.cs",
-              "RelativeToolTip": "Taskify.DataStore\\DataInitializer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwB0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T17:20:53.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ConfigureRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\ConfigureRepository.cs",
-              "RelativeDocumentMoniker": "Taskify.DataStore\\ConfigureRepository.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\ConfigureRepository.cs",
-              "RelativeToolTip": "Taskify.DataStore\\ConfigureRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAxwAoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T11:24:22.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "roles.json",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\PrimaryData\\roles.json",
-              "RelativeDocumentMoniker": "Taskify.DataStore\\PrimaryData\\roles.json",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\PrimaryData\\roles.json",
-              "RelativeToolTip": "Taskify.DataStore\\PrimaryData\\roles.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-16T11:05:24.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApiResponse.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApiResponse.cs",
-              "RelativeToolTip": "Taskify.Services\\DTOs\\ApiResponse.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwAQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T19:43:16.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20251006211142_updateOnTheUserTaskEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251006211142_updateOnTheUserTaskEntity.cs",
-              "RelativeDocumentMoniker": "Taskify.DataStore\\Migrations\\20251006211142_updateOnTheUserTaskEntity.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251006211142_updateOnTheUserTaskEntity.cs",
-              "RelativeToolTip": "Taskify.DataStore\\Migrations\\20251006211142_updateOnTheUserTaskEntity.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T21:11:42.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProjectService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\ProjectService.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\Implementation\\ProjectService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\ProjectService.cs",
-              "RelativeToolTip": "Taskify.Services\\Implementation\\ProjectService.cs",
-              "ViewState": "AgIAANoAAAAAAAAAAAAAAOsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T13:08:16.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AppRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Repositorise\\Implementation\\AppRepository.cs",
-              "RelativeDocumentMoniker": "Taskify.DataStore\\Repositorise\\Implementation\\AppRepository.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Repositorise\\Implementation\\AppRepository.cs",
-              "RelativeToolTip": "Taskify.DataStore\\Repositorise\\Implementation\\AppRepository.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T12:45:51.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "TaskCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskCreateDto.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApplicationDto\\TaskCreateDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskCreateDto.cs",
-              "RelativeToolTip": "Taskify.Services\\DTOs\\ApplicationDto\\TaskCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T14:02:02.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UserProject.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\UserProject.cs",
-              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\UserProject.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\UserProject.cs",
-              "RelativeToolTip": "Taskify.Domain\\Entities\\UserProject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:35:05.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\AppUser.cs",
-              "RelativeToolTip": "Taskify.Domain\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T10:06:49.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Taskify.Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T11:50:45.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserTask.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\UserTask.cs",
-              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\UserTask.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\UserTask.cs",
-              "RelativeToolTip": "Taskify.Domain\\Entities\\UserTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T10:07:17.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 8,
               "Title": "IProjectService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\IProjectService.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\Interface\\IProjectService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\IProjectService.cs",
               "RelativeToolTip": "Taskify.Services\\Interface\\IProjectService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -633,76 +395,312 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskUpdateDto.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApplicationDto\\TaskUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskUpdateDto.cs",
+              "RelativeToolTip": "Taskify.Services\\DTOs\\ApplicationDto\\TaskUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T19:09:07.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskCreateDto.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApplicationDto\\TaskCreateDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskCreateDto.cs",
+              "RelativeToolTip": "Taskify.Services\\DTOs\\ApplicationDto\\TaskCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:02:02.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Taskify.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj",
+              "RelativeDocumentMoniker": "Taskify.Services\\Taskify.Services.csproj",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj",
+              "RelativeToolTip": "Taskify.Services\\Taskify.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T12:45:17.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserProject.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\UserProject.cs",
+              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\UserProject.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\UserProject.cs",
+              "RelativeToolTip": "Taskify.Domain\\Entities\\UserProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:35:05.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskDto.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApplicationDto\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\TaskDto.cs",
+              "RelativeToolTip": "Taskify.Services\\DTOs\\ApplicationDto\\TaskDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:03:44.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\UserSummaryDto.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\UserSummaryDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\UserSummaryDto.cs",
+              "RelativeToolTip": "Taskify.Services\\DTOs\\UserSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:05:23.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\ConfigurationService.cs",
+              "RelativeToolTip": "Taskify.Services\\ConfigurationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:32:51.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\MappService\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\MappService\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\MappService\\MappingProfile.cs",
+              "RelativeToolTip": "Taskify.Services\\MappService\\MappingProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:20:50.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssignTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\AssignTaskDto.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApplicationDto\\AssignTaskDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\AssignTaskDto.cs",
+              "RelativeToolTip": "Taskify.Services\\DTOs\\ApplicationDto\\AssignTaskDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T19:37:11.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Constant\\UserRole.cs",
+              "RelativeDocumentMoniker": "Taskify.Domain\\Constant\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Constant\\UserRole.cs",
+              "RelativeToolTip": "Taskify.Domain\\Constant\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T19:27:13.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Enum\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "Taskify.Domain\\Enum\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Enum\\TaskStatus.cs",
+              "RelativeToolTip": "Taskify.Domain\\Enum\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:40:24.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "Taskify.Domain\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:03:25.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PriorityLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Enum\\PriorityLevel.cs",
+              "RelativeDocumentMoniker": "Taskify.Domain\\Enum\\PriorityLevel.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Enum\\PriorityLevel.cs",
+              "RelativeToolTip": "Taskify.Domain\\Enum\\PriorityLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:45:57.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\DataInitializer.cs",
+              "RelativeDocumentMoniker": "Taskify.DataStore\\DataInitializer.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\DataInitializer.cs",
+              "RelativeToolTip": "Taskify.DataStore\\DataInitializer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:20:53.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConfigureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\ConfigureRepository.cs",
+              "RelativeDocumentMoniker": "Taskify.DataStore\\ConfigureRepository.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\ConfigureRepository.cs",
+              "RelativeToolTip": "Taskify.DataStore\\ConfigureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAxwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:24:22.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "roles.json",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\PrimaryData\\roles.json",
+              "RelativeDocumentMoniker": "Taskify.DataStore\\PrimaryData\\roles.json",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\PrimaryData\\roles.json",
+              "RelativeToolTip": "Taskify.DataStore\\PrimaryData\\roles.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T11:05:24.347Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "JwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\JwtTokenService.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\Implementation\\JwtTokenService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\JwtTokenService.cs",
-              "RelativeToolTip": "Taskify.Services\\Implementation\\JwtTokenService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA0wCIAAAAMAAAAAAAAAA==",
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "Taskify.Services\\DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T12:06:17.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T19:43:16.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Comments.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\Comments.cs",
-              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\Comments.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Entities\\Comments.cs",
-              "RelativeToolTip": "Taskify.Domain\\Entities\\Comments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 65,
+              "Title": "20251006211142_updateOnTheUserTaskEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251006211142_updateOnTheUserTaskEntity.cs",
+              "RelativeDocumentMoniker": "Taskify.DataStore\\Migrations\\20251006211142_updateOnTheUserTaskEntity.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251006211142_updateOnTheUserTaskEntity.cs",
+              "RelativeToolTip": "Taskify.DataStore\\Migrations\\20251006211142_updateOnTheUserTaskEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:16:59.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Taskify\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Taskify\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T20:04:02.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T21:11:42.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\UserService.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\Implementation\\UserService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\UserService.cs",
-              "RelativeToolTip": "Taskify.Services\\Implementation\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Taskify.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T10:41:51.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T10:06:49.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\IUserService.cs",
-              "RelativeDocumentMoniker": "Taskify.Services\\Interface\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\IUserService.cs",
-              "RelativeToolTip": "Taskify.Services\\Interface\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Taskify.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T10:41:02.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T11:50:45.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\Implementation\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\JwtTokenService.cs",
+              "RelativeToolTip": "Taskify.Services\\Implementation\\JwtTokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:06:17.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\Comments.cs",
+              "RelativeDocumentMoniker": "Taskify.Domain\\Entities\\Comments.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Entities\\Comments.cs",
+              "RelativeToolTip": "Taskify.Domain\\Entities\\Comments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:16:59.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Taskify\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Taskify\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:04:02.749Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Taskify.Services\\Implementation\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T10:41:51.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Taskify.Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Taskify.Services\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T10:41:02.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Taskify\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Controllers\\UserController.cs",
               "RelativeToolTip": "Taskify\\Controllers\\UserController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAywDEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -711,24 +709,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\UserDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\UserDto.cs",
               "RelativeToolTip": "Taskify.Services\\DTOs\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T10:55:22.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T10:55:22.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 63,
               "Title": "20251002201322_FixedUserTask.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251002201322_FixedUserTask.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251002201322_FixedUserTask.cs",
               "RelativeDocumentMoniker": "Taskify.DataStore\\Migrations\\20251002201322_FixedUserTask.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251002201322_FixedUserTask.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251002201322_FixedUserTask.cs",
               "RelativeToolTip": "Taskify.DataStore\\Migrations\\20251002201322_FixedUserTask.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -736,11 +733,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Taskify.DataStore\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\AppDbContext.cs",
               "RelativeToolTip": "Taskify.DataStore\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -748,11 +745,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "DateServiceConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\DateServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\DateServiceConfiguration.cs",
               "RelativeDocumentMoniker": "Taskify.DataStore\\DateServiceConfiguration.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\DateServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\DateServiceConfiguration.cs",
               "RelativeToolTip": "Taskify.DataStore\\DateServiceConfiguration.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -760,11 +757,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Taskify.DataStore\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "Taskify.DataStore\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAHwBAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -772,11 +769,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 64,
               "Title": "20251002193737_modify_tables.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251002193737_modify_tables.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251002193737_modify_tables.cs",
               "RelativeDocumentMoniker": "Taskify.DataStore\\Migrations\\20251002193737_modify_tables.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251002193737_modify_tables.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20251002193737_modify_tables.cs",
               "RelativeToolTip": "Taskify.DataStore\\Migrations\\20251002193737_modify_tables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -784,11 +781,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\appsettings.json",
               "RelativeDocumentMoniker": "Taskify\\appsettings.json",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\appsettings.json",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\appsettings.json",
               "RelativeToolTip": "Taskify\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -796,11 +793,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "ProjectController.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "Taskify\\Controllers\\ProjectController.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "Taskify\\Controllers\\ProjectController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -808,11 +805,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "ProjectDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\ProjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\ProjectDto.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApplicationDto\\ProjectDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\ProjectDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\ProjectDto.cs",
               "RelativeToolTip": "Taskify.Services\\DTOs\\ApplicationDto\\ProjectDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -820,11 +817,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "roles.json",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\roles.json",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Controllers\\roles.json",
               "RelativeDocumentMoniker": "Taskify\\Controllers\\roles.json",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\roles.json",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Controllers\\roles.json",
               "RelativeToolTip": "Taskify\\Controllers\\roles.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -832,11 +829,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "20250910185058_initialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20250910185058_initialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20250910185058_initialMigration.cs",
               "RelativeDocumentMoniker": "Taskify.DataStore\\Migrations\\20250910185058_initialMigration.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20250910185058_initialMigration.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20250910185058_initialMigration.cs",
               "RelativeToolTip": "Taskify.DataStore\\Migrations\\20250910185058_initialMigration.cs",
               "ViewState": "AgIAAHABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -844,11 +841,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "ProjectCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\ProjectCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\ProjectCreateDto.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ApplicationDto\\ProjectCreateDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\ProjectCreateDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ApplicationDto\\ProjectCreateDto.cs",
               "RelativeToolTip": "Taskify.Services\\DTOs\\ApplicationDto\\ProjectCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -856,11 +853,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "IJwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\IJwtTokenService.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\Interface\\IJwtTokenService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\IJwtTokenService.cs",
               "RelativeToolTip": "Taskify.Services\\Interface\\IJwtTokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -868,23 +865,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "IAppRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Repositorise\\Interface\\IAppRepository.cs",
-              "RelativeDocumentMoniker": "Taskify.DataStore\\Repositorise\\Interface\\IAppRepository.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Repositorise\\Interface\\IAppRepository.cs",
-              "RelativeToolTip": "Taskify.DataStore\\Repositorise\\Interface\\IAppRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T12:34:16.172Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 45,
               "Title": "CurrentUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\CurrentUserService.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\Implementation\\CurrentUserService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\CurrentUserService.cs",
               "RelativeToolTip": "Taskify.Services\\Implementation\\CurrentUserService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAuwCsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -894,9 +879,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\AuthService.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\Implementation\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Implementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Implementation\\AuthService.cs",
               "RelativeToolTip": "Taskify.Services\\Implementation\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -906,9 +891,9 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\IAuthService.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\Interface\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\IAuthService.cs",
               "RelativeToolTip": "Taskify.Services\\Interface\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -918,9 +903,9 @@
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "ICurrentUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\ICurrentUserService.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\Interface\\ICurrentUserService.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Interface\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Interface\\ICurrentUserService.cs",
               "RelativeToolTip": "Taskify.Services\\Interface\\ICurrentUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -930,9 +915,9 @@
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "UpdateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\UpdateUserDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\UpdateUserDto.cs",
               "RelativeToolTip": "Taskify.Services\\DTOs\\UpdateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -942,9 +927,9 @@
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "CurrentUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\CurrentUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\CurrentUserDto.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\CurrentUserDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\CurrentUserDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\CurrentUserDto.cs",
               "RelativeToolTip": "Taskify.Services\\DTOs\\CurrentUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -954,9 +939,9 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "Taskify.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
               "RelativeDocumentMoniker": "Taskify.Domain\\Taskify.Domain.csproj",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Taskify.Domain.csproj",
               "RelativeToolTip": "Taskify.Domain\\Taskify.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -966,9 +951,9 @@
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "Taskify.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Taskify.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Taskify.Api.csproj",
               "RelativeDocumentMoniker": "Taskify\\Taskify.Api.csproj",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Taskify.Api.csproj",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Taskify.Api.csproj",
               "RelativeToolTip": "Taskify\\Taskify.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -976,23 +961,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Taskify\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Taskify\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T06:50:48.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 62,
               "Title": "20250924100349_updateDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20250924100349_updateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20250924100349_updateDatabase.cs",
               "RelativeDocumentMoniker": "Taskify.DataStore\\Migrations\\20250924100349_updateDatabase.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20250924100349_updateDatabase.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.DataStore\\Migrations\\20250924100349_updateDatabase.cs",
               "RelativeToolTip": "Taskify.DataStore\\Migrations\\20250924100349_updateDatabase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1000,11 +973,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Class1.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\Class1.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Class1.cs",
               "RelativeToolTip": "Taskify.Services\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1012,22 +985,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "Taskify.Api",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Taskify.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Taskify.Api.csproj",
               "RelativeDocumentMoniker": "Taskify\\Taskify.Api.csproj",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Taskify.Api.csproj",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Taskify.Api.csproj",
               "RelativeToolTip": "Taskify\\Taskify.Api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-09T17:46:17.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\RegisterDto.cs",
               "RelativeToolTip": "Taskify.Services\\DTOs\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1035,11 +1008,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "AuthResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\AuthResponseDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\AuthResponseDto.cs",
               "RelativeToolTip": "Taskify.Services\\DTOs\\AuthResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1047,23 +1020,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "Taskify.Services.csproj",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj",
-              "RelativeDocumentMoniker": "Taskify.Services\\Taskify.Services.csproj",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Taskify.Services.csproj",
-              "RelativeToolTip": "Taskify.Services\\Taskify.Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-15T12:45:17.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 57,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\LoginDto.cs",
               "RelativeToolTip": "Taskify.Services\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1071,11 +1032,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 58,
               "Title": "JwtConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Utilities\\JwtConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Utilities\\JwtConfig.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\Utilities\\JwtConfig.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\Utilities\\JwtConfig.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\Utilities\\JwtConfig.cs",
               "RelativeToolTip": "Taskify.Services\\Utilities\\JwtConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1083,11 +1044,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 59,
               "Title": "ValidationError.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ValidationError.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ValidationError.cs",
               "RelativeDocumentMoniker": "Taskify.Services\\DTOs\\ValidationError.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ValidationError.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Services\\DTOs\\ValidationError.cs",
               "RelativeToolTip": "Taskify.Services\\DTOs\\ValidationError.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1095,11 +1056,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 60,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Taskify\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify\\Properties\\launchSettings.json",
               "RelativeToolTip": "Taskify\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1107,15 +1068,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 61,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Taskify.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\Agidi Daniel George\\Desktop\\Taskify\\Taskify\\Taskify.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Agidi Daniel George\\Documents\\Class\\Taskify\\Taskify\\Taskify.Domain\\Class1.cs",
               "RelativeToolTip": "Taskify.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T13:12:23.165Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }
