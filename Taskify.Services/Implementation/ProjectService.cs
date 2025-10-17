@@ -150,23 +150,28 @@ namespace Taskify.Services.Implementation
         public async Task<IEnumerable<ProjectDto>> GetAllProject()
         {
             var userId = _currentUserService.GetUserId();
-            var userGuid = Guid.Parse(userId!);
+            if (userId == null)
+                return Enumerable.Empty<ProjectDto>();
 
-            var query = _appRepository.GetAllAsync(trackChanges: false)
-                                      .Where(p => p.CreatedByUserId == userGuid);
-                                     
+            var userGuid = Guid.Parse(userId);
 
-            var projects = await query.ToListAsync();
+            // Project counts at the database level to avoid loading full navigation collections
+            var projects = await _appRepository.GetAllAsync(trackChanges: false)
+                .Where(p => p.CreatedByUserId == userGuid)
+                .Select(p => new ProjectDto
+                {
+                    Id = p.Id,
+                    Name = p.ProjectName,
+                    Description = p.Description,
+                    CreatedBy = p.CreatedByUserId,
+                    CreateAT = p.CreateAT,
+                    UpdateAT = p.UpdateAT,
+                    TotalMembers = p.UserProjects != null ? p.UserProjects.Count() : 0,
+                    TotalTasks = p.Tasks != null ? p.Tasks.Count(t => !t.IsDeleted) : 0
+                })
+                .ToListAsync();
 
-            return projects.Select(p => new ProjectDto
-            {
-                Id = p.Id,
-                Name = p.ProjectName,
-                Description = p.Description,
-                CreatedBy = p.CreatedByUserId,
-                CreateAT = p.CreateAT,
-                UpdateAT = p.UpdateAT
-            });
+            return projects;
         }
 
         public async Task<ApiResponse<ProjectDto>> UpdateProjectAsync(ProjectUpdateDto model)

@@ -8,6 +8,8 @@ namespace Taskify.Services.DTOs.ApplicationDto
         public string? Description { get; set; }
         public Guid CreatedBy { get; set; }
         public AppUser? UserName { get; set; }
-        //public int TaskCount { get; set; }
+
+        public int TotalMembers { get; set; }
+        public int TotalTasks { get; set; }
     }
 }
