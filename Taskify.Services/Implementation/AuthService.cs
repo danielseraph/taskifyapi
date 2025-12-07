@@ -114,7 +114,8 @@ namespace Taskify.Services.Implementation
             var token = new AuthResponseDto
             {
                 Token = _jwtTokenService.GetJwtToken(roles: userRole, userId: registerUser.Id, username: registerUser.UserName, securityStamp: secStamp),
-                ExpirationTime = DateTime.UtcNow.AddHours(_jwtConfig.ExpirationTime),
+                // Use minutes to match JwtTokenService (which uses AddMinutes)
+                ExpirationTime = DateTime.UtcNow.AddMinutes(_jwtConfig.ExpirationTime),
                 RefreshToken = refreshToken.Token,
                 RefreshTokenExpiration = refreshToken.Expires
             };

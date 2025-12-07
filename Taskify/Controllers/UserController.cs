@@ -40,7 +40,7 @@ namespace Taskify.Api.Controllers
             return Ok(user);
         }
 
-        [Authorize]
+        
         [HttpGet("user")]
         public async Task<IActionResult> GetUser()
         {
